@@ -65,6 +65,14 @@ Get started at [codegen.com](https://codegen.com) and get your API token at [cod
 
 You can interact with your AI engineer via API, or chat with it in Slack, Linear, Github, or on our website.
 
+## Examples
+
+Check out these examples to get started:
+
+- **[Hello World](codegen-examples/examples/hello_world)**: A simple example demonstrating basic SDK usage
+- **[Ti Ta Test](codegen-examples/examples/ti_ta_test)**: A fun example that generates rhythmic patterns
+- More examples in the [codegen-examples](codegen-examples) directory
+
 ## Resources
 
 - [Docs](https://docs.codegen.com)

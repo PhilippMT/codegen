@@ -44,6 +44,11 @@ Within the examples folder, each subdirectory contains a self-contained example 
 
 To see a transformation, simply run the `run.py` script within the desired directory.
 
+### Featured Examples
+
+- **[Hello World](examples/hello_world)**: A simple example demonstrating basic SDK usage
+- **[Ti Ta Test](examples/ti_ta_test)**: A fun example that generates rhythmic patterns
+
 ## Learn More
 
 - [Documentation](https://docs.codegen.com)
